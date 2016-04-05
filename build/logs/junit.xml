@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="AppBase" tests="7" assertions="7" failures="0" errors="0" time="0.032411">
+    <testsuite name="Library\UploaderTest" file="/Users/dustinweaver/Uploader/tests/unit/Library/UploaderTest.php" tests="7" assertions="7" failures="0" errors="0" time="0.032411">
+      <testcase name="testInstanciation" class="Library\UploaderTest" file="/Users/dustinweaver/Uploader/tests/unit/Library/UploaderTest.php" line="57" assertions="1" time="0.013038"/>
+      <testcase name="testTargetPathIsCreated" class="Library\UploaderTest" file="/Users/dustinweaver/Uploader/tests/unit/Library/UploaderTest.php" line="68" assertions="1" time="0.004886"/>
+      <testcase name="testFailedWhitelistCheck" class="Library\UploaderTest" file="/Users/dustinweaver/Uploader/tests/unit/Library/UploaderTest.php" line="80" assertions="1" time="0.002749"/>
+      <testcase name="testFileExeedsFilesizeLimit" class="Library\UploaderTest" file="/Users/dustinweaver/Uploader/tests/unit/Library/UploaderTest.php" line="92" assertions="1" time="0.002687"/>
+      <testcase name="testFailedBlacklistCheck" class="Library\UploaderTest" file="/Users/dustinweaver/Uploader/tests/unit/Library/UploaderTest.php" line="104" assertions="1" time="0.002850"/>
+      <testcase name="testFailedSave" class="Library\UploaderTest" file="/Users/dustinweaver/Uploader/tests/unit/Library/UploaderTest.php" line="116" assertions="1" time="0.002998"/>
+      <testcase name="testSave" class="Library\UploaderTest" file="/Users/dustinweaver/Uploader/tests/unit/Library/UploaderTest.php" line="128" assertions="1" time="0.003203"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

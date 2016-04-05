@@ -1,0 +1,16 @@
+{
+  "name": "Payscape/AppBase",
+  "description": "Base skeleton for Applictions",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michael Ngo",
+      "email": "michael.ngo@payscape.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "4.8.*",
+    "theseer/autoload": "1.21.0"
+  }
+}
